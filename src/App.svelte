@@ -3,6 +3,10 @@
   import Counter from './lib/Counter.svelte'
 </script>
 
+<header class="bg-slate-600">
+  Test
+</header>
+
 <main>
   <div>
     <a href="https://vitejs.dev" target="_blank" rel="noreferrer"> 
