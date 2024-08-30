@@ -1,7 +1,10 @@
 <script lang="ts">
-  import Counter from './lib/Counter.svelte'
   import ProfileImage from './assets/profile.jpg'
-    import { getExperienceYears } from './helpers';
+  import OkCreditLogo from './assets/okcredit.svg'
+  import Milestone from './lib/Milestone.svelte';
+  import Experience from './lib/Experience.svelte';
+
+  import { getExperienceYears } from './helpers';
 </script>
 
 <header>
@@ -17,7 +20,22 @@
     Download Resume
   </button>
 </header>
-
-<main>
-
+<main class="mt-10 space-y-6">
+  <h3 class="text-subheading">Experience</h3>
+  <Experience
+    companyLogo={OkCreditLogo}
+    position="Associate Tech Lead"
+    duration="March 2022 — Present"
+  >
+    <Milestone>Currently working as ATL for frontend team and involved in shipping and development of multiple web projects across organization.</Milestone>
+  </Experience>
+  <Experience
+    companyLogo={OkCreditLogo}
+    position="Associate Tech Lead"
+    duration="March 2022 — Present"
+  >
+    <Milestone>Built several platform related tools such as an in-house component library and other utility libraries for react and react-native.</Milestone>
+    <Milestone>Have worked on the mobile PWA version of OkCredit web.</Milestone>
+    <Milestone>Have worked on building base architecture for react apps, used plugins like redux, rxjs, redux-saga, custom react hooks and used tools like typescript.</Milestone>
+  </Experience>
 </main>
