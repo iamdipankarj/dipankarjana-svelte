@@ -15,7 +15,5 @@
   </div>
   <ul class="space-y-1 mt-4">
     <slot />
-    <!-- <li class="milestone">I&apos;ve helped set and contribute to our product strategy for Growth from yearly plans to individual experiment product specs.</li>
-    <li class="milestone">Created and led various processes for the larger Design team such as onboarding resources, guides for hiring, contributing to the design system, etc.</li> -->
   </ul>
 </article>
