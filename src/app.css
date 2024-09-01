@@ -35,7 +35,7 @@ body {
 }
 
 #app {
-  @apply container max-w-5xl mx-auto py-12;
+  @apply container max-w-5xl mx-auto pt-12;
 }
 
 /* @media (prefers-color-scheme: dark) {

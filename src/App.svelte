@@ -3,11 +3,14 @@
   import OkCreditLogo from './assets/okcredit.svg'
   import HealofyLogo from './assets/healofy.svg'
   import ClearfundsLogo from './assets/clearfunds.svg'
-  import EducationLogo from './assets/education.svg'
   import Milestone from './lib/Milestone.svelte';
   import Experience from './lib/Experience.svelte';
+  import Education from './lib/Education.svelte';
+  import Social from './lib/Social.svelte';
+  import Contact from './lib/Contact.svelte';
 
   import { getExperienceYears, getSkills, getTools } from './helpers';
+    import Languages from './lib/Languages.svelte';
 </script>
 
 <header>
@@ -24,7 +27,7 @@
   </button>
 </header>
 <h3 class="text-subheading mt-10 mb-6">Experience</h3>
-<div class="flex">
+<div class="flex pb-10">
   <main class="space-y-6 w-3/4 pr-16 shrink-0 grow-1">
     <Experience
       companyLogo={OkCreditLogo}
@@ -72,22 +75,19 @@
   </main>
   <aside class="shrink-0 w-1/4 space-y-8">
     <div>
-      <h4 class="font-semibold text-lg tracking-wide mb-2">Programming Skills</h4>
+      <h4 class="font-semibold text-lg tracking-wide mb-4">Programming Skills</h4>
       <p class="text-subheading">{getSkills().join(' / ')}</p>
     </div>
     <div>
-      <h4 class="font-semibold text-lg tracking-wide mb-2">Tools</h4>
+      <h4 class="font-semibold text-lg tracking-wide mb-4">Tools</h4>
       <p class="text-subheading">{getTools().join(' / ')}</p>
     </div>
-    <div>
-      <h4 class="font-semibold text-lg tracking-wide mb-2">Education</h4>
-      <div class="flex items-start gap-3">
-        <img src={EducationLogo} alt="Education" class="block w-12 h-12" />
-        <div class="flex flex-col">
-          <h4 class="font-semibold text-md tracking-wide">Bachelor of Technology</h4>
-          <p class="text-subheading">WBUT (2012 - 2016)</p>
-        </div>
-      </div>
-    </div>
+    <Education />
+    <Social />
+    <Contact />
+    <Languages />
   </aside>
 </div>
+<footer class="text-footertext text-sm py-10 px-6 text-center">
+  Copyright &copy; {new Date().getFullYear()} | All rights reserved | Dipankar Jana
+</footer>
