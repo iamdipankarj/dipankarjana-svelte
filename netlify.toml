@@ -4,6 +4,7 @@
   publish = "."
 
 [dev]
+  NODE_ENV = "production"
   command = "yarn preview"
   port = 3000 # The port your server will run on
   targetPort = 3001 # The port Netlify Dev will use to proxy requests to your local server
