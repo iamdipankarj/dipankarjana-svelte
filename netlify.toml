@@ -1,7 +1,6 @@
 [build]
-  functions = "netlify/functions"
   command = "yarn run build"
-  publish = "."
+  publish = "dist"
 
 [dev]
   NODE_ENV = "production"
