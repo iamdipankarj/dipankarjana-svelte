@@ -1,7 +1,7 @@
 [build]
   functions = "netlify/functions"
   command = "yarn run build"
-  publish = "dist"
+  publish = "."
 
 [dev]
   command = "yarn preview"
