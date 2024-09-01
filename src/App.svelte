@@ -15,20 +15,20 @@
 
 <header>
   <div class="flex items-start">
-    <div class="space-y-2 pr-16">
+    <div class="space-y-2 md:pr-16">
       <h1 class="font-semibold text-5xl">Dipankar Jana</h1>
       <h2 class="font-semibold text-xl">Associate Tech Lead (Frontend Engineering)</h2>
       <p class="!mt-8">👋 I'm Dipankar Jana. I am passionate about building rich user experiences. I am currently working with OkCredit. Previously worked at Healofy and Clearfunds (acquired by MobiKwik). I have total work experience of <strong>{getExperienceYears()} years</strong>.</p>
     </div>
-    <img src={ProfileImage} alt="Dipankar Jana" class="block rounded-full w-40 h-40" />
+    <img src={ProfileImage} alt="Dipankar Jana" class="hidden md:block rounded-full w-40 h-40" />
   </div>
-  <button class="mt-8 bg-primary px-4 py-2 text-center text-md font-semibold inline-block text-white cursor-pointer transition duration-200 ease-in-out rounded-full hover:bg-primary focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-primary focus-visible:ring-offset-2 active:scale-95">
+  <button class="mt-8 bg-primary px-4 py-2 text-center text-md font-semibold inline-block text-white cursor-pointer transition duration-200 ease-in-out rounded-full hover:bg-primary focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-primary focus-visible:ring-offset-2 active:scale-95 w-full md:w-auto">
     Download Resume
   </button>
 </header>
 <h3 class="text-subheading mt-10 mb-6">Experience</h3>
-<div class="flex pb-10">
-  <main class="space-y-6 w-3/4 pr-16 shrink-0 grow-1">
+<div class="flex pb-10 flex-col md:flex-row">
+  <main class="space-y-6 w-full shrink-0 grow-1 pb-10 md:pb-0 md:w-3/4 md:pr-16">
     <Experience
       companyLogo={OkCreditLogo}
       position="Associate Tech Lead - OkCredit"
@@ -73,7 +73,7 @@
       <Milestone>Testing: For testing we used Mocha to write unit tests for Vue components.</Milestone>
     </Experience>
   </main>
-  <aside class="shrink-0 w-1/4 space-y-8">
+  <aside class="shrink-0 space-y-8 w-full md:w-1/4">
     <div>
       <h4 class="font-semibold text-lg tracking-wide mb-4">Programming Skills</h4>
       <p class="text-subheading">{getSkills().join(' / ')}</p>
