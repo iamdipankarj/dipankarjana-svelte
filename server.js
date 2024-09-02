@@ -65,6 +65,10 @@ app.use('*', async (req, res) => {
   }
 })
 
+app.use('/robots.txt', (_, res) => {
+  res.sendFile(path.join(__dirname, 'public/robots.txt'));
+})
+
 // Start http server
 app.listen(port, () => {
   console.log(`Server started at http://localhost:${port}`)
