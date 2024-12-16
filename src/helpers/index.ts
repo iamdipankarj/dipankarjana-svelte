@@ -26,7 +26,8 @@ export const getSkills = () => {
     'HTML5',
     'CSS3',
     'RxJS',
-    'SASS'
+    'SASS',
+    'Laravel'
   ]
 }
 
@@ -39,5 +40,6 @@ export const getTools = () => {
     'Blender',
     'Github Actions',
     'Bitbucket Pipeline',
+    'PHP Storm'
   ]
 }
