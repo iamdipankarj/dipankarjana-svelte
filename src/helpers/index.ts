@@ -6,31 +6,6 @@ export const getExperienceYears = () => {
   return diffDays.toFixed(1)
 }
 
-export const getSkills = () => {
-  return [
-    'JavaScript',
-    'TypeScript',
-    'React.js',
-    'Vue.js',
-    'Svelte',
-    'Next.js',
-    'Gatsby',
-    'Vite',
-    'Redux',
-    'WordPress',
-    'jQuery',
-    'AJAX',
-    'Webpack',
-    'Responsive Web Design',
-    'EcmaScript 6',
-    'HTML5',
-    'CSS3',
-    'RxJS',
-    'SASS',
-    'Laravel'
-  ]
-}
-
 export const getTools = () => {
   return [
     'Git',
