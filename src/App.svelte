@@ -73,6 +73,9 @@
       <Milestone>Vue component library for investor dashboards.</Milestone>
       <Milestone>Testing: For testing we used Mocha to write unit tests for Vue components.</Milestone>
     </Experience>
+    <div class="pt-6">
+      <h3 class="text-subheading">Projects</h3>
+    </div>
   </main>
   <aside class="shrink-0 space-y-8 w-full md:w-1/4">
     <div>
