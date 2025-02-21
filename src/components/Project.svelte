@@ -9,7 +9,7 @@
 
 <div class="flex flex-col rounded-lg bg-white md:flex-row text-surface">
   <img class="h-48 w-full rounded-lg object-cover md:h-auto md:w-48" src={src} alt="">
-  <div class="flex flex-col justify-start p-6">
+  <div class="flex flex-col justify-start md:px-6 py-6">
     <h5 class="mb-2 text-xl font-medium">
       {title}
     </h5>

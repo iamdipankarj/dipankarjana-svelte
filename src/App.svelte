@@ -3,15 +3,16 @@
   import OkCreditLogo from './assets/okcredit.svg'
   import HealofyLogo from './assets/healofy.svg'
   import ClearfundsLogo from './assets/clearfunds.svg'
-  import Milestone from './lib/Milestone.svelte';
-  import Experience from './lib/Experience.svelte';
-  import Education from './lib/Education.svelte';
-  import Social from './lib/Social.svelte';
-  import Contact from './lib/Contact.svelte';
-  import Languages from './lib/Languages.svelte';
+  import Milestone from './components/Milestone.svelte';
+  import Experience from './components/Experience.svelte';
+  import Education from './components/Education.svelte';
+  import Social from './components/Social.svelte';
+  import Contact from './components/Contact.svelte';
+  import Languages from './components/Languages.svelte';
   import SkillsContainer from './components/SkillsContainer.svelte';
   import ProjectsContainer from './components/ProjectsContainer.svelte';
   import { getExperienceYears, getTools } from './helpers';
+    import LinkedInWidget from './components/LinkedInWidget.svelte';
 </script>
 
 <header>
@@ -77,6 +78,7 @@
   </main>
   <aside class="shrink-0 space-y-8 w-full md:w-1/4">
     <Contact />
+    <LinkedInWidget />
     <div>
       <h4 class="font-semibold text-lg tracking-wide mb-4">Programming Skills</h4>
        <SkillsContainer />
