@@ -10,7 +10,7 @@
   import Contact from './lib/Contact.svelte';
   import Languages from './lib/Languages.svelte';
   import SkillsContainer from './components/SkillsContainer.svelte';
-
+  import ProjectsContainer from './components/ProjectsContainer.svelte';
   import { getExperienceYears, getTools } from './helpers';
 </script>
 
@@ -73,9 +73,7 @@
       <Milestone>Vue component library for investor dashboards.</Milestone>
       <Milestone>Testing: For testing we used Mocha to write unit tests for Vue components.</Milestone>
     </Experience>
-    <div class="pt-6">
-      <h3 class="text-subheading">Projects</h3>
-    </div>
+    <ProjectsContainer />
   </main>
   <aside class="shrink-0 space-y-8 w-full md:w-1/4">
     <div>

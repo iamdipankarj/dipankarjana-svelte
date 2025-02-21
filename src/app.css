@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 :root {
-  font-family: 'Bricolage Grotesque', system-ui, Avenir, Helvetica, Arial, sans-serif;
+  font-family: 'Inter', system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
   font-weight: 400;
   font-synthesis: none;
@@ -36,7 +36,7 @@ body {
 }
 
 #app {
-  @apply container max-w-5xl mx-auto pt-12 px-6;
+  @apply container max-w-7xl mx-auto pt-12 px-6;
 }
 
 /* @media (prefers-color-scheme: dark) {
