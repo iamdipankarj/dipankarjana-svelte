@@ -76,6 +76,7 @@
     <ProjectsContainer />
   </main>
   <aside class="shrink-0 space-y-8 w-full md:w-1/4">
+    <Contact />
     <div>
       <h4 class="font-semibold text-lg tracking-wide mb-4">Programming Skills</h4>
        <SkillsContainer />
@@ -86,7 +87,6 @@
     </div>
     <Education />
     <Social />
-    <Contact />
     <Languages />
   </aside>
 </div>
