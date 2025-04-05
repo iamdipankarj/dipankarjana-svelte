@@ -1,5 +1,5 @@
 <script lang="ts">
-  import ProfileImage from './assets/profile.jpg'
+  import ProfileImage from './assets/profile.png'
   import OkCreditLogo from './assets/okcredit.svg'
   import HealofyLogo from './assets/healofy.svg'
   import ClearfundsLogo from './assets/clearfunds.svg'
@@ -20,7 +20,7 @@
     <div class="space-y-2 md:pr-16">
       <h1 class="font-semibold text-5xl">Dipankar Jana</h1>
       <h2 class="font-semibold text-xl">Associate Tech Lead (Frontend Engineering)</h2>
-      <p class="!mt-8">👋 I'm Dipankar Jana. I am passionate about building rich user experiences. I am currently working with OkCredit. Previously worked at Healofy and Clearfunds (acquired by MobiKwik). I have total work experience of <strong>{getExperienceYears()} years</strong>.</p>
+      <p class="!mt-8">👋 I'm Dipankar Jana. I am passionate about building rich user experiences. I am currently working with <a class="text-lightGreenText underline" target="_blank" rel="nofollow" href="https://okcredit.in/">OkCredit</a>. Previously worked at <a class="text-lightGreenText underline" target="_blank" rel="nofollow" href="https://play.google.com/store/apps/details?id=com.healofy">Healofy</a> and <a class="text-lightGreenText underline" target="_blank" rel="nofollow" href="https://money.mobikwik.com/">Clearfunds</a> (acquired by MobiKwik). I have a total work experience of <strong>{getExperienceYears()} years</strong>.</p>
     </div>
     <img src={ProfileImage} alt="Dipankar Jana" class="hidden md:block rounded-full w-40 h-40" />
   </div>
@@ -37,6 +37,12 @@
       duration="March 2022 — Present"
     >
       <Milestone>Currently working as ATL for frontend team and involved in shipping and development of multiple web projects across organization.</Milestone>
+      <Milestone>Collaborated across teams to ship and scale major projects, contributing to company-wide growth initiatives.</Milestone>
+      <Milestone>Built the end-to-end frontend for the Term Loan platform, enabling <strong>₹400Cr+</strong> in disbursals at scale.</Milestone>
+      <Milestone>Contributed to development of both the merchant dashboard and NBFC dashboard, leveraging Laravel, modern JavaScript frameworks, and internal APIs.</Milestone>
+      <Milestone>Integrated multiple payment gateways including Razorpay, Cashfree, and Easebuzz, enabling seamless loan repayments and transaction processing.</Milestone>
+      <Milestone>Led migration efforts from legacy codebases to modern frameworks (e.g., React, TypeScript).</Milestone>
+      <Milestone>Actively involved in architecture decisions, mentoring junior engineers, and ensuring engineering best practices across projects.</Milestone>
     </Experience>
     <Experience
       companyLogo={OkCreditLogo}
