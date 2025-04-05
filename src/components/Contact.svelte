@@ -14,7 +14,7 @@
       </div>
       <div class="flex flex-col flex-1 gap-1">
         <h4 class="text-sm tracking-wide text-social">Email</h4>
-        <p class="text-socialtext font-semibold tracking-wide">iamdipankarj@gmail.com</p>
+        <p class="text-socialtext font-semibold tracking-wide hover:underline">iamdipankarj@gmail.com</p>
       </div>
     </a>
     <a class="flex items-center gap-3" href="https://dipankarjana.com" rel="nofollow" target="_blank">
@@ -23,7 +23,7 @@
       </div>
       <div class="flex flex-col flex-1 gap-1">
         <h4 class="text-sm tracking-wide text-social">Website</h4>
-        <p class="text-socialtext font-semibold tracking-wide">https://dipankarjana.com</p>
+        <p class="text-socialtext font-semibold tracking-wide hover:underline">https://dipankarjana.com</p>
       </div>
     </a>
     <a class="flex items-center gap-3" href="tel:9674878096" rel="nofollow" target="_blank">
@@ -32,7 +32,7 @@
       </div>
       <div class="flex flex-col flex-1 gap-1">
         <h4 class="text-sm tracking-wide text-social">Phone</h4>
-        <p class="text-socialtext font-semibold tracking-wide">(+91) 9674878096</p>
+        <p class="text-socialtext font-semibold tracking-wide hover:underline">(+91) 9674878096</p>
       </div>
     </a>
     <div class="flex items-center gap-3">
@@ -41,7 +41,7 @@
       </div>
       <div class="flex flex-col flex-1 gap-1">
         <h4 class="text-sm tracking-wide text-social">Location</h4>
-        <p class="text-socialtext font-semibold tracking-wide">Kolkata / Bengaluru</p>
+        <p class="text-socialtext font-semibold tracking-wide">Kolkata / Bengaluru / Remote</p>
       </div>
     </div>
   </div>
