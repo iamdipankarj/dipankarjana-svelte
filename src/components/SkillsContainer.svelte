@@ -23,7 +23,7 @@
   <SkillBadge skill="rwd" className='bg-lightGreen text-lightGreenText border-lightGreenStroke' />
   <SkillBadge skill="es6" className='bg-lightTeal/10 text-lightTealText 
   border-lightTealStroke' />
-  <SkillBadge skill="rxjs" className='bg-lightGray text-lightGrayText 
+  <SkillBadge skill="inertia" className='bg-lightGray text-lightGrayText 
   border-lightGrayStroke' />
   <SkillBadge skill="html5" className='bg-lightYellow text-lightYellowText 
   border-lightYellowStroke' />

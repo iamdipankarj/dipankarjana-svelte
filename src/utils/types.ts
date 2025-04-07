@@ -64,9 +64,9 @@ export const SkillMap: Record<string, SkillValue> = {
     link: 'https://github.com/lukehoban/es6features',
     label: 'EcmaScript 6'
   },
-  'rxjs': {
-    link: 'https://rxjs.dev/',
-    label: 'RxJS'
+  'inertia': {
+    link: 'https://inertiajs.com/',
+    label: 'Intertia.js'
   },
   'html5': {
     link: 'https://developer.mozilla.org/en-US/docs/Glossary/HTML5',
