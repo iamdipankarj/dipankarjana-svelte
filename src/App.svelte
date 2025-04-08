@@ -24,7 +24,7 @@
     </div>
     <img src={ProfileImage} alt="Dipankar Jana" class="hidden md:block rounded-full w-40 h-40" />
   </div>
-  <a href="/Dipankar_Jana_Resume.pdf" class="mt-8 bg-primary px-4 py-2 text-center text-md font-semibold inline-block text-white hover:text-white cursor-pointer transition duration-200 ease-in-out rounded-full hover:bg-primary focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-primary focus-visible:ring-offset-2 active:scale-95 w-full md:w-auto">
+  <a href="/Dipankar_Jana_Resume_April_2025.pdf" class="mt-8 bg-primary px-4 py-2 text-center text-md font-semibold inline-block text-white hover:text-white cursor-pointer transition duration-200 ease-in-out rounded-full hover:bg-primary focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-primary focus-visible:ring-offset-2 active:scale-95 w-full md:w-auto">
     Download Resume
   </a>
 </header>
