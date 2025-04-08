@@ -36,11 +36,11 @@
       position="Associate Tech Lead - OkCredit"
       duration="March 2022 — Present"
     >
-      <Milestone>Currently working as ATL for frontend team and involved in shipping and development of multiple web projects across organization.</Milestone>
+      <Milestone>Currently working as ATL for frontend team and involved in shipping and developing multiple web projects across the organization.</Milestone>
       <Milestone>Collaborated across teams to ship and scale major projects, contributing to company-wide growth initiatives.</Milestone>
       <Milestone>Built the end-to-end frontend for the Term Loan platform, enabling <strong>₹400Cr+</strong> in disbursals at scale.</Milestone>
-      <Milestone>Contributed to development of both the merchant dashboard and NBFC dashboard, leveraging Laravel, modern JavaScript frameworks, and internal APIs.</Milestone>
-      <Milestone>Integrated multiple payment gateways including Razorpay, Cashfree, and Easebuzz, enabling seamless loan repayments and transaction processing.</Milestone>
+      <Milestone>Contributed to developing the merchant and NBFC dashboards, leveraging Laravel, modern JavaScript frameworks, and internal APIs.</Milestone>
+      <Milestone>Integrated multiple payment gateways, including Razorpay, Cashfree, and Easebuzz, enabling seamless loan repayments and transaction processing.</Milestone>
       <Milestone>Led migration efforts from legacy codebases to modern frameworks (e.g., React, TypeScript).</Milestone>
       <Milestone>Actively involved in architecture decisions, mentoring junior engineers, and ensuring engineering best practices across projects.</Milestone>
     </Experience>
@@ -49,36 +49,33 @@
       position="Senior Software Engineer - OkCredit"
       duration="January 2021 — February 2022"
     >
-      <Milestone>Built several platform related tools such as an in-house component library and other utility libraries for react and react-native.</Milestone>
+      <Milestone>Built several platform-related tools, such as an in-house component library and other utility libraries for react and react-native.</Milestone>
       <Milestone>Have worked on the mobile PWA version of OkCredit web.</Milestone>
-      <Milestone>Have worked on building base architecture for react apps, used plugins like redux, redux-observable, redux-saga, custom react hooks and used tools like typescript.</Milestone>
-      <Milestone>Have worked on solidifying design language between multiple projects and used tools like styled- components, JSS to maintain consistency across applications when required.</Milestone>
-      <Milestone>Have integrated various payment services like PayTm, Razorpay and Juspay.</Milestone>
-      <Milestone>Have worked in setting up CI/CD pipelines for our applications using Github Actions.</Milestone>
-      <Milestone>Built custom Github Action toolkit library for automating CI/CD workflows.</Milestone>
-      <Milestone>Have set up Unit tests for various web projects across organization.</Milestone>
-      <Milestone>Used tools like LogRocket and New-Relic for measuring and improving performance.</Milestone>
-      <Milestone>Shipped multiple web based extensions for OkCredit android app.</Milestone>
+      <Milestone>Have worked on building base architecture for React apps, using plugins like Redux, Redux-observable, Redux-Saga, custom React hooks, and tools like Typescript.</Milestone>
+      <Milestone>Have worked on solidifying design language between multiple projects and using tools like styled components and JSS to maintain consistency across applications when required.</Milestone>
+      <Milestone>Have worked on setting up CI/CD pipelines for our applications using GitHub Actions.</Milestone>
+      <Milestone>Built a custom GitHub Action toolkit library for automating CI/CD workflows.</Milestone>
+      <Milestone>Have set up unit tests for various web projects across the organization.</Milestone>
+      <Milestone>Tools like LogRocket and New-Relic have been used to measure and improve performance.</Milestone>
+      <Milestone>Shipped multiple web-based extensions for the OkCredit Android app.</Milestone>
     </Experience>
     <Experience
       companyLogo={HealofyLogo}
       position="Software Developer - Healofy"
       duration="June 2018 — January 2021"
     >
-      <Milestone>Healofy is a social network for Moms &amp; Pregnant Moms. Our core application stack uses Google App Engine for the backend and React.js for the frontend side of the application, was involved in the development of the web application which required the use of some modern technologies such as SASS, ES6 and webpack.</Milestone>
-      <Milestone>Have built several internal tools and dashboards for operations team.</Milestone>
+      <Milestone>Healofy is a social network for mothers. The core application stack uses Google App Engine for the backend and React.js for the frontend side of the application. I was involved in the development of the web application, which required the use of some modern technologies such as SASS, ES6, and webpack.</Milestone>
+      <Milestone>Have built several internal tools and dashboards for the operations team.</Milestone>
     </Experience>
     <Experience
       companyLogo={ClearfundsLogo}
       position="Front End Developer - Clearfunds"
       duration="July 2017 — May 2018"
     >
-      <Milestone>Clearfunuds (Acquired by MobiKwik), Mumbai
-        Now acquired by MobiKwik. Our core application stack uses Ruby on Rails for the backend and Vue.js for the frontend for parts of our application. Development of the single page application which involved the use of some modern technologies such as SASS, ES6 and webpack. Have been a part of the team which integrated Vue.js in our core application and moved from traditional Rails views.</Milestone>
+      <Milestone>Our core application stack combines Ruby on Rails for the backend and Vue.js for the frontend, providing a robust foundation for our projects. I was involved in the development of a sophisticated single-page application using cutting-edge technologies like SASS, ES6, and Webpack. As a key team member, I contributed to integrating Vue.js into our application, shifting from traditional Rails views to a more dynamic interface.</Milestone>
       <Milestone>Fund Finder - A tool that helps investors choose which funds to invest in. The frontend is built entirely on top of Vue.js.</Milestone>
       <Milestone>Investor Dashboard - Created a dashboard that is used by investors, development required the use of Vue.js, Vue-router.</Milestone>
       <Milestone>Vue component library for investor dashboards.</Milestone>
-      <Milestone>Testing: For testing we used Mocha to write unit tests for Vue components.</Milestone>
     </Experience>
     <ProjectsContainer />
   </main>
