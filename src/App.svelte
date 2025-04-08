@@ -51,7 +51,7 @@
     >
       <Milestone>Built several platform-related tools, such as an in-house component library and other utility libraries for react and react-native.</Milestone>
       <Milestone>Have worked on the mobile PWA version of OkCredit web.</Milestone>
-      <Milestone>Have worked on building base architecture for React apps, using plugins like Redux, Redux-observable, Redux-Saga, custom React hooks, and tools like Typescript.</Milestone>
+      <Milestone>Have worked on building base architecture for React apps, using plugins like Redux, Redux-observable, Redux-Saga, custom React hooks, and tools like TypeScript.</Milestone>
       <Milestone>Have worked on solidifying design language between multiple projects and using tools like styled components and JSS to maintain consistency across applications when required.</Milestone>
       <Milestone>Have worked on setting up CI/CD pipelines for our applications using GitHub Actions.</Milestone>
       <Milestone>Built a custom GitHub Action toolkit library for automating CI/CD workflows.</Milestone>
