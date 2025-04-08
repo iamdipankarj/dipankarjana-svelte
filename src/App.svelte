@@ -24,7 +24,7 @@
     </div>
     <img src={ProfileImage} alt="Dipankar Jana" class="hidden md:block rounded-full w-40 h-40" />
   </div>
-  <a href="/Dipankar_Jana_Resume.pdf" class="mt-8 bg-primary px-4 py-2 text-center text-md font-semibold inline-block text-white hover:text-white cursor-pointer transition duration-200 ease-in-out rounded-full hover:bg-primary focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-primary focus-visible:ring-offset-2 active:scale-95 w-full md:w-auto">
+  <a href="/Dipankar_Jana_Resume_April_2025.pdf" class="mt-8 bg-primary px-4 py-2 text-center text-md font-semibold inline-block text-white hover:text-white cursor-pointer transition duration-200 ease-in-out rounded-full hover:bg-primary focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-primary focus-visible:ring-offset-2 active:scale-95 w-full md:w-auto">
     Download Resume
   </a>
 </header>
@@ -51,7 +51,7 @@
     >
       <Milestone>Built several platform-related tools, such as an in-house component library and other utility libraries for react and react-native.</Milestone>
       <Milestone>Have worked on the mobile PWA version of OkCredit web.</Milestone>
-      <Milestone>Have worked on building base architecture for React apps, using plugins like Redux, Redux-observable, Redux-Saga, custom React hooks, and tools like Typescript.</Milestone>
+      <Milestone>Have worked on building base architecture for React apps, using plugins like Redux, Redux-observable, Redux-Saga, custom React hooks, and tools like TypeScript.</Milestone>
       <Milestone>Have worked on solidifying design language between multiple projects and using tools like styled components and JSS to maintain consistency across applications when required.</Milestone>
       <Milestone>Have worked on setting up CI/CD pipelines for our applications using GitHub Actions.</Milestone>
       <Milestone>Built a custom GitHub Action toolkit library for automating CI/CD workflows.</Milestone>
