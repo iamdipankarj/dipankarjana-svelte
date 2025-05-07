@@ -2,12 +2,6 @@
 
 ## Dipankar Jana | Frontend Engineering
 
-> Good code is its own best documentation.
-
-> -- Steve McConnell, Code Complete: A Practical Handbook of Software Construction
-
-<br/>
-
 > What we found a long time ago was the line of code that a developer can write the fastest, the line of code that a developer can maintain the cheapest and the line of code that never breaks for the user is the line of code the developer never had to write.
 
 > -- Steve Jobs
