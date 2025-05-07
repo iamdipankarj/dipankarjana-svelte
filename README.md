@@ -52,4 +52,4 @@ yarn build
 
 ## License
 
-This project is [MIT licenced](LICENSE).
+This project is [MIT licensed](LICENSE).
