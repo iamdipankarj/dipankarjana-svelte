@@ -24,7 +24,7 @@ a:hover {
 }
 
 body {
-  @apply m-0 min-h-screen;
+  @apply m-0 min-h-screen relative;
 }
 
 .milestone {
@@ -39,9 +39,21 @@ body {
   @apply container max-w-7xl mx-auto pt-12 px-6;
 }
 
-/* @media (prefers-color-scheme: dark) {
-  :root {
-    color: rgba(255, 255, 255, 0.87);
-    background-color: #242424;
+#ribbon {
+  background-color: #3f3f50;
+  -webkit-box-shadow: 0 0 10px #888;
+  -moz-box-shadow: 0 0 10px #888;
+  box-shadow: 0 0 10px #888;
+  @apply hidden md:block overflow-hidden whitespace-nowrap fixed right-[-50px] top-[16px] rotate-45 z-50;
+
+  & > a {
+    border: 1px dashed #727297;
+    font: bold 81.25% 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    margin: 1px 0;
+    padding: 10px 50px;
+    text-align: center;
+    text-decoration: none;
+    text-shadow: 0 0 5px #444;
+    @apply text-white space-x-1 flex items-center text-center;
   }
-} */
+}
