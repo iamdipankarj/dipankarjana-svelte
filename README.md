@@ -21,7 +21,7 @@ Follow these steps to set up the project locally:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/iamdipankarj/dipankarjana-site
+git clone git@github.com:iamdipankarj/dipankarjana-site.git
 cd dipankarjana-site
 ```
 
