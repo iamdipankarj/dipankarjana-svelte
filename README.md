@@ -1,4 +1,4 @@
-<p align="center"><a href="https://day8.github.io/re-frame" target="_blank" rel="noopener noreferrer"><img src="src/assets/profile.png" width='200' height='200' style='border-radius: 50%' alt="re-frame logo"></a></p>
+<p align="center"><a style="border-radius: 50%;overflow:hidden;display:inline-block;" href="https://dipankarjana.com/" target="_blank" rel="noopener noreferrer"><img src="src/assets/profile.png" width='200' height='200' alt="Dipankar Jana"></a></p>
 
 ## Dipankar Jana | Frontend Engineering
 
