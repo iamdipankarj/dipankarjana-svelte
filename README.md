@@ -1,4 +1,4 @@
-<p align="center"><a style="border-radius: 50%;overflow:hidden;display:inline-flex;" href="https://dipankarjana.com/" target="_blank" rel="noopener noreferrer"><img src="src/assets/profile.png" width='200' height='200' alt="Dipankar Jana"></a></p>
+<p align="center"><a style="" href="https://dipankarjana.com/" target="_blank" rel="noopener noreferrer"><img src="public/profile-rounded.png" width='200' height='200' alt="Dipankar Jana"></a></p>
 
 ## Dipankar Jana | Frontend Engineering
 

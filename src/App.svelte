@@ -1,5 +1,4 @@
 <script lang="ts">
-  import ProfileImage from './assets/profile.png'
   import OkCreditLogo from './assets/okcredit.svg'
   import HealofyLogo from './assets/healofy.svg'
   import ClearfundsLogo from './assets/clearfunds.svg'
@@ -22,7 +21,7 @@
       <h2 class="font-semibold text-xl">Associate Tech Lead (Frontend Engineering)</h2>
       <p class="!mt-8">👋 I'm Dipankar Jana. I am passionate about building rich user experiences. I am currently working with <a class="text-lightGreenText underline" target="_blank" rel="nofollow" href="https://okcredit.in/">OkCredit</a>. Previously worked at <a class="text-lightGreenText underline" target="_blank" rel="nofollow" href="https://play.google.com/store/apps/details?id=com.healofy">Healofy</a> and <a class="text-lightGreenText underline" target="_blank" rel="nofollow" href="https://money.mobikwik.com/">Clearfunds</a> (acquired by MobiKwik). I have a total work experience of <strong>{getExperienceYears()} years</strong>.</p>
     </div>
-    <img src={ProfileImage} alt="Dipankar Jana" class="hidden md:block rounded-full w-40 h-40" />
+    <img src='/profile.png' alt="Dipankar Jana" class="hidden md:block rounded-full w-40 h-40" />
   </div>
   <a href="/Dipankar_Jana_Resume.pdf" class="mt-8 bg-primary px-4 py-2 text-center text-md font-semibold inline-block text-white hover:text-white cursor-pointer transition duration-200 ease-in-out rounded-full hover:bg-primary focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-primary focus-visible:ring-offset-2 active:scale-95 w-full md:w-auto">
     Download Resume
