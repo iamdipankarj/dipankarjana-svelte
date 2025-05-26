@@ -69,7 +69,7 @@
     <Experience
       companyLogo={ClearfundsLogo}
       position="Front End Developer - Clearfunds"
-      duration="July 2017 — May 2018"
+      duration="May 2017 — May 2018"
     >
       <Milestone>Our core application stack consists of Ruby on Rails for the backend and Vue.js for the frontend, providing a robust foundation for our projects. I was involved in the development of a sophisticated single-page application using cutting-edge technologies like SASS, ES6, and Webpack. As a key team member, I contributed to integrating Vue.js into our application, shifting from traditional Rails views to a more dynamic interface.</Milestone>
       <Milestone>Fund Finder - A tool that helps investors choose which funds to invest in. The frontend is built entirely on top of Vue.js.</Milestone>
