@@ -12,7 +12,6 @@
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.3.5-38bdf8?logo=tailwindcss&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.4-blue?logo=typescript&logoColor=white)
 ![Hosted on Fly.io](https://img.shields.io/badge/Hosted%20on-Fly.io-009cf0)
-![PostHog](https://img.shields.io/badge/Analytics-PostHog-E16259?logo=posthog&logoColor=white)
 
 ## 🚀 Installation
 
