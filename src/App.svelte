@@ -19,11 +19,11 @@
     <div class="space-y-2 md:pr-16">
       <h1 class="font-semibold text-5xl">Dipankar Jana</h1>
       <h2 class="font-semibold text-xl">Associate Tech Lead (Frontend Engineering)</h2>
-      <p class="!mt-8">👋 I'm Dipankar Jana. I am passionate about building rich user experiences. I am currently working with <a class="text-lightGreenText underline" target="_blank" rel="nofollow" href="https://okcredit.in/">OkCredit</a>. Previously worked at <a class="text-lightGreenText underline" target="_blank" rel="nofollow" href="https://play.google.com/store/apps/details?id=com.healofy">Healofy</a> and <a class="text-lightGreenText underline" target="_blank" rel="nofollow" href="https://money.mobikwik.com/">Clearfunds</a> (acquired by MobiKwik). I have a total work experience of <strong>{getExperienceYears()} years</strong>.</p>
+      <p class="!mt-8">Detail-oriented Frontend Engineer with <strong>{getExperienceYears()} years</strong> of experience building responsive, high-performance web applications using React, TypeScript, and modern JavaScript frameworks. Proven track record of delivering scalable UI solutions, collaborating cross-functionally with design and backend teams, and optimizing user experiences across devices. Passionate about clean code, accessibility, and continuously improving frontend architecture. I am currently working with <a class="text-lightGreenText underline" target="_blank" rel="nofollow" href="https://okcredit.in/">OkCredit</a>. Previously worked at <a class="text-lightGreenText underline" target="_blank" rel="nofollow" href="https://play.google.com/store/apps/details?id=com.healofy">Healofy</a> and <a class="text-lightGreenText underline" target="_blank" rel="nofollow" href="https://money.mobikwik.com/">Clearfunds</a> (acquired by MobiKwik).</p>
     </div>
     <img src='/profile.png' alt="Dipankar Jana" class="hidden md:block rounded-full w-40 h-40" />
   </div>
-  <a href="/Dipankar_Jana_Resume.pdf" class="mt-8 bg-primary px-4 py-2 text-center text-md font-semibold inline-block text-white hover:text-white cursor-pointer transition duration-200 ease-in-out rounded-full hover:bg-primary focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-primary focus-visible:ring-offset-2 active:scale-95 w-full md:w-auto">
+  <a href="/Dipankar_Jana_Resume_June_2025.pdf" class="mt-8 bg-primary px-4 py-2 text-center text-md font-semibold inline-block text-white hover:text-white cursor-pointer transition duration-200 ease-in-out rounded-full hover:bg-primary focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-primary focus-visible:ring-offset-2 active:scale-95 w-full md:w-auto">
     Download Resume
   </a>
 </header>
@@ -32,49 +32,42 @@
   <main class="space-y-6 w-full shrink-0 grow-1 pb-10 md:pb-0 md:w-3/4 md:pr-16">
     <Experience
       companyLogo={OkCreditLogo}
-      position="Associate Tech Lead - OkCredit"
-      duration="March 2022 — Present"
-    >
-      <Milestone>Currently working as an ATL for the frontend team and I am involved in shipping and developing multiple web projects across the organization.</Milestone>
-      <Milestone>Collaborated across teams to ship and scale major projects, contributing to company-wide growth initiatives.</Milestone>
-      <Milestone>Built the end-to-end frontend for the Term Loan platform, enabling <strong>₹400Cr+</strong> in disbursals at scale.</Milestone>
-      <Milestone>Contributed to developing the merchant and NBFC dashboards, leveraging Laravel, modern JavaScript frameworks, and internal APIs.</Milestone>
-      <Milestone>Integrated multiple payment gateways, including Razorpay, Cashfree, and Easebuzz, enabling seamless loan repayments and transaction processing.</Milestone>
-      <Milestone>Led migration efforts from legacy codebases to modern frameworks (e.g., React, TypeScript).</Milestone>
-      <Milestone>Actively involved in architecture decisions, mentoring junior engineers, and ensuring engineering best practices across projects.</Milestone>
-    </Experience>
-    <Experience
-      companyLogo={OkCreditLogo}
       position="Senior Software Engineer - OkCredit"
-      duration="January 2021 — February 2022"
+      duration="January 2021 — Present"
     >
-      <Milestone>Built several platform-related tools, such as an in-house component library and other utility libraries for react and react-native.</Milestone>
-      <Milestone>Have worked on the mobile PWA version of OkCredit web.</Milestone>
-      <Milestone>Have worked on building the base architecture for React apps, using plugins like Redux, Redux-observable, Redux-Saga, custom React hooks, and tools like TypeScript.</Milestone>
-      <Milestone>Have worked on solidifying design language between multiple projects and using tools like styled components, JSS and TailwindCSS to maintain consistency across applications when required.</Milestone>
-      <Milestone>Have worked on setting up CI/CD pipelines for our applications using Github Actions.</Milestone>
-      <Milestone>Built a custom GitHub Action toolkit library for automating CI/CD workflows.</Milestone>
-      <Milestone>Have set up unit tests for various web projects across the organization.</Milestone>
-      <Milestone>Tools like LogRocket and New-Relic have been used to measure and improve performance.</Milestone>
-      <Milestone>Shipped multiple web-based extensions for the OkCredit Android app.</Milestone>
+      <p class="mb-4">Led a team of engineers in the development and designers of new and upcoming products.</p>
+      <Milestone>Built the end-to-end frontend for the Loan platform, enabling <strong>$50 Million+</strong> in disbursal at scale.</Milestone>
+      <Milestone>Led the migration of legacy codebases to modern frameworks like React, while leveraging <strong>HTML5</strong> and <strong>CSS3</strong> for improved performance and maintainability.</Milestone>
+      <Milestone>Built several platform-related tools, such as an in-house component library and other utility libraries for <strong>React</strong> and <strong>React-Native</strong>.</Milestone>
+      <Milestone>Have worked on building the base architecture for React apps, using plugins like <strong>Redux</strong>, <strong>Redux-observable</strong>, <strong>Redux-Saga</strong>, custom <strong>React hooks</strong>, and languages like <strong>TypeScript</strong>.</Milestone>
+      <Milestone>Have worked on solidifying design language between multiple projects and used tools like <strong>styled components</strong>, <strong>CSS-in-JS</strong>, <strong>TailwindCSS</strong> to maintain consistency across applications when required.</Milestone>
+      <Milestone>Implemented <strong>CI/CD</strong> pipelines using <strong>GitHub Actions</strong> to automate build, test, and deployment processes for our applications.</Milestone>
+      <Milestone>Boosted user engagement by 30% by optimizing UI components and ensuring responsive design practices.</Milestone>
+      <Milestone>Optimized large-scale data handling by virtualizing React tables and modularizing components, enabling smooth performance with 15,000+ transactions and 20,000+ inventory items. Reduced load times by shifting backend API calls to on-demand logic.</Milestone>
+      <Milestone>Contributed to OkDebit, a repayment collection management app, by developing a Windows application using Tauri (a Rust-based framework). The app syncs financial data from Tally to OkDebit, allowing users to manage all collections and payments in one place by integrating Tally with our backend systems.</Milestone>
     </Experience>
     <Experience
       companyLogo={HealofyLogo}
       position="Software Developer - Healofy"
       duration="June 2018 — January 2021"
     >
-      <Milestone>Healofy is a social network for mothers. The core application stack uses Google App Engine for the backend and React.js for the frontend side of the application. I was involved in the development of the web application, which required the use of some modern technologies such as SASS, ES6, and webpack.</Milestone>
-      <Milestone>Have built several internal tools and dashboards for the operations team.</Milestone>
+      <p class="mb-4">The core application stack uses Google Cloud Platform for the backend and <strong>React.js</strong>, <strong>Next.js</strong> for the frontend.</p>
+      <Milestone>Used modern technologies such as SASS, ES6, and Webpack.</Milestone>
+      <Milestone>Increased operational efficiency by 25% by developing several internal tools and dashboards for the operations team.</Milestone>
+      <Milestone>Optimized the legacy webpages to reduce the <strong>page load time by 60%</strong>, enhancing user retention.</Milestone>
+      <Milestone>Enabled a <strong>20% user retention</strong> increase by implementing a new user onboarding process.</Milestone>
     </Experience>
     <Experience
       companyLogo={ClearfundsLogo}
       position="Front End Developer - Clearfunds"
       duration="May 2017 — May 2018"
     >
-      <Milestone>Our core application stack consists of Ruby on Rails for the backend and Vue.js for the frontend, providing a robust foundation for our projects. I was involved in the development of a sophisticated single-page application using cutting-edge technologies like SASS, ES6, and Webpack. As a key team member, I contributed to integrating Vue.js into our application, shifting from traditional Rails views to a more dynamic interface.</Milestone>
-      <Milestone>Fund Finder - A tool that helps investors choose which funds to invest in. The frontend is built entirely on top of Vue.js.</Milestone>
-      <Milestone>Investor Dashboard - Created a dashboard that is used by investors, development required the use of Vue.js, Vue-router.</Milestone>
-      <Milestone>Vue component library for investor dashboards.</Milestone>
+      <p class="mb-4">Clearfunds was an online platform for buying and selling mutual funds.</p>
+      <Milestone>Increased investor fund allocation efficiency by 30% using Vue.js for Fund Finder's user-friendly frontend.</Milestone>
+      <Milestone>Enhanced backend efficiency by 40% through collaborating on Ruby on Rails integrations.</Milestone>
+      <Milestone><strong>Investor Dashboard</strong> - Created a dashboard that is used by investors, development required the use of <strong>Vue.js</strong> and <strong>Vue-Router</strong>.</Milestone>
+      <Milestone>Have built a <strong>Vue</strong> component library for investor dashboards.</Milestone>
+      <Milestone>Increased mobile user retention by 20% by designing responsive UI components.</Milestone>
     </Experience>
     <ProjectsContainer />
   </main>

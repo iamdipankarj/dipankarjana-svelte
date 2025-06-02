@@ -7,7 +7,6 @@
   <SkillBadge skill="ts" className='bg-lightGreen text-lightGreenText border-lightGreenStroke' />
   <SkillBadge skill="react" className='bg-lightPurple text-lightPurpleText border-lightPurpleStroke' />
   <SkillBadge skill="vue" className='bg-lightPink text-lightPinkText border-lightPinkStroke' />
-  <SkillBadge skill="svelte" className='bg-lightOrange text-lightOrangeText border-lightOrangeStroke' />
   <SkillBadge skill="next" className='bg-lightGray text-lightGrayText 
   border-lightGrayStroke' />
   <SkillBadge skill="gatsby" className='bg-lightYellow text-lightYellowText 
