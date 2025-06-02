@@ -23,7 +23,7 @@
     </div>
     <img src='/profile.png' alt="Dipankar Jana" class="hidden md:block rounded-full w-40 h-40" />
   </div>
-  <a href="/Dipankar_Jana_Resume.pdf" class="mt-8 bg-primary px-4 py-2 text-center text-md font-semibold inline-block text-white hover:text-white cursor-pointer transition duration-200 ease-in-out rounded-full hover:bg-primary focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-primary focus-visible:ring-offset-2 active:scale-95 w-full md:w-auto">
+  <a href="/Dipankar_Jana_Resume_June_2025.pdf" class="mt-8 bg-primary px-4 py-2 text-center text-md font-semibold inline-block text-white hover:text-white cursor-pointer transition duration-200 ease-in-out rounded-full hover:bg-primary focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-primary focus-visible:ring-offset-2 active:scale-95 w-full md:w-auto">
     Download Resume
   </a>
 </header>
@@ -37,12 +37,14 @@
     >
       <p class="mb-4">Led a team of engineers in the development and designers of new and upcoming products.</p>
       <Milestone>Built the end-to-end frontend for the Loan platform, enabling <strong>$50 Million+</strong> in disbursal at scale.</Milestone>
-      <Milestone>Led migration efforts from legacy codebases to modern frameworks (e.g., React, TypeScript) and utilized <strong>HTML5</strong> and <strong>CSS3</strong>.</Milestone>
+      <Milestone>Led the migration of legacy codebases to modern frameworks like React, while leveraging <strong>HTML5</strong> and <strong>CSS3</strong> for improved performance and maintainability.</Milestone>
       <Milestone>Built several platform-related tools, such as an in-house component library and other utility libraries for <strong>React</strong> and <strong>React-Native</strong>.</Milestone>
       <Milestone>Have worked on building the base architecture for React apps, using plugins like <strong>Redux</strong>, <strong>Redux-observable</strong>, <strong>Redux-Saga</strong>, custom <strong>React hooks</strong>, and languages like <strong>TypeScript</strong>.</Milestone>
       <Milestone>Have worked on solidifying design language between multiple projects and used tools like <strong>styled components</strong>, <strong>CSS-in-JS</strong>, <strong>TailwindCSS</strong> to maintain consistency across applications when required.</Milestone>
       <Milestone>Implemented <strong>CI/CD</strong> pipelines using <strong>GitHub Actions</strong> to automate build, test, and deployment processes for our applications.</Milestone>
       <Milestone>Boosted user engagement by 30% by optimizing UI components and ensuring responsive design practices.</Milestone>
+      <Milestone>Optimized large-scale data handling by virtualizing React tables and modularizing components, enabling smooth performance with 15,000+ transactions and 20,000+ inventory items. Reduced load times by shifting backend API calls to on-demand logic.</Milestone>
+      <Milestone>Contributed to OkDebit, a repayment collection management app, by developing a Windows application using Tauri (a Rust-based framework). The app syncs financial data from Tally to OkDebit, allowing users to manage all collections and payments in one place by integrating Tally with our backend systems.</Milestone>
     </Experience>
     <Experience
       companyLogo={HealofyLogo}

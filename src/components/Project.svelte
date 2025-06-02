@@ -2,7 +2,7 @@
   export let src: string;
   export let title: string;
   export let demoLink: string;
-  export let githubLink: string;
+  export let githubLink: string | null;
   export let description: string;
 
 </script>
@@ -20,9 +20,11 @@
     <a href={demoLink} target="_blank" class="text-sm text-surface/75 underline text-lightPurpleText">
         View Demo
       </a>
-      <a href={githubLink} target="_blank" class="text-sm text-surface/75 underline text-lightPurpleText">
-        View on Github
-      </a>
+      {#if githubLink}
+        <a href={githubLink} target="_blank" class="text-sm text-surface/75 underline text-lightPurpleText">
+          View on Github
+        </a>
+      {/if}
     </div>
   </div>
 </div>
