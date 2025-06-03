@@ -44,7 +44,6 @@
       <Milestone>Implemented <strong>CI/CD</strong> pipelines using <strong>GitHub Actions</strong> to automate build, test, and deployment processes for our applications.</Milestone>
       <Milestone>Boosted user engagement by 30% by optimizing UI components and ensuring responsive design practices.</Milestone>
       <Milestone>Optimized large-scale data handling by virtualizing React tables and modularizing components, enabling smooth performance with 15,000+ transactions and 20,000+ inventory items. Reduced load times by shifting backend API calls to on-demand logic.</Milestone>
-      <Milestone>Contributed to OkDebit, a repayment collection management app, by developing a Windows application using Tauri (a Rust-based framework). The app syncs financial data from Tally to OkDebit, allowing users to manage all collections and payments in one place by integrating Tally with our backend systems.</Milestone>
     </Experience>
     <Experience
       companyLogo={HealofyLogo}
