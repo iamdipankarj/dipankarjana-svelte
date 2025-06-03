@@ -9,8 +9,6 @@
   <SkillBadge skill="vue" className='bg-lightPink text-lightPinkText border-lightPinkStroke' />
   <SkillBadge skill="next" className='bg-lightGray text-lightGrayText 
   border-lightGrayStroke' />
-  <SkillBadge skill="gatsby" className='bg-lightYellow text-lightYellowText 
-  border-lightYellowStroke' />
   <SkillBadge skill="vite" className='bg-lightTeal/10 text-lightTealText 
   border-lightTealStroke' />
   <SkillBadge skill="redux" className='bg-lightRed text-lightRedText border-lightRedStroke' />
@@ -22,6 +20,10 @@
   <SkillBadge skill="rwd" className='bg-lightGreen text-lightGreenText border-lightGreenStroke' />
   <SkillBadge skill="es6" className='bg-lightTeal/10 text-lightTealText 
   border-lightTealStroke' />
+  <SkillBadge skill="jest" className='bg-lightYellow text-lightYellowText 
+  border-lightYellowStroke' />
+  <SkillBadge skill="cypress" className='bg-lightYellow text-lightYellowText 
+  border-lightYellowStroke' />
   <SkillBadge skill="inertia" className='bg-lightGray text-lightGrayText 
   border-lightGrayStroke' />
   <SkillBadge skill="html5" className='bg-lightYellow text-lightYellowText 

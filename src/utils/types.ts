@@ -76,6 +76,14 @@ export const SkillMap: Record<string, SkillValue> = {
     link: 'https://developer.mozilla.org/en-US/docs/Web/CSS',
     label: 'CSS3'
   },
+  'jest': {
+    link: 'https://jestjs.io/',
+    label: 'Jest'
+  },
+  'cypress': {
+    link: 'https://www.cypress.io/',
+    label: 'Cypress'
+  },
   'sass': {
     link: 'https://sass-lang.com/',
     label: 'SASS'
