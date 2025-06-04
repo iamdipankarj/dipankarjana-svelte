@@ -43,7 +43,6 @@
       <Milestone>Have worked on solidifying design language between multiple projects and used tools like <strong>styled components</strong>, <strong>CSS-in-JS</strong>, <strong>TailwindCSS</strong> to maintain consistency across applications when required.</Milestone>
       <Milestone>Implemented <strong>CI/CD</strong> pipelines using <strong>GitHub Actions</strong> to automate build, test, and deployment processes for our applications. Have used <strong>Jest</strong> to write unit tests for the same.</Milestone>
       <Milestone>Boosted user engagement by 30% by optimizing UI components and ensuring responsive design practices.</Milestone>
-      <Milestone>Optimized large-scale data handling by virtualizing React tables and modularizing components, enabling smooth performance with 15,000+ transactions and 20,000+ inventory items. Reduced load times by shifting backend API calls to on-demand logic.</Milestone>
     </Experience>
     <Experience
       companyLogo={HealofyLogo}

@@ -40,6 +40,10 @@ export const SkillMap: Record<string, SkillValue> = {
     link: 'https://redux.js.org/',
     label: 'Redux'
   },
+  'contextApi': {
+    link: 'https://react.dev/learn/passing-data-deeply-with-context',
+    label: 'Context API'
+  },
   'wp': {
     link: 'https://wordpress.org/',
     label: 'WordPress'
