@@ -44,6 +44,10 @@ export const SkillMap: Record<string, SkillValue> = {
     link: 'https://react.dev/learn/passing-data-deeply-with-context',
     label: 'Context API'
   },
+  'tanstack': {
+    link: 'http://tanstack.com/',
+    label: 'TanStack'
+  },
   'wp': {
     link: 'https://wordpress.org/',
     label: 'WordPress'

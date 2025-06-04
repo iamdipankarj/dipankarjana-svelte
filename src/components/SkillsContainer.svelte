@@ -13,6 +13,8 @@
   border-lightTealStroke' />
   <SkillBadge skill="redux" className='bg-lightRed text-lightRedText border-lightRedStroke' />
   <SkillBadge skill="contextApi" className='bg-lightGreen text-lightGreenText border-lightGreenStroke' />
+  <SkillBadge skill="tanstack" className='bg-lightGray text-lightGrayText 
+  border-lightGrayStroke' />
   <SkillBadge skill="wp" className='bg-lightBlue text-lightBlueText border-lightBlueStroke' />
   <SkillBadge skill="jquery" className='bg-lightYellow text-lightYellowText 
   border-lightYellowStroke' />
