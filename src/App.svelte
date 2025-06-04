@@ -18,7 +18,7 @@
   <div class="flex items-start">
     <div class="space-y-2 md:pr-16">
       <h1 class="font-semibold text-5xl">Dipankar Jana</h1>
-      <h2 class="font-semibold text-xl">Associate Tech Lead (Frontend Engineering)</h2>
+      <h2 class="font-semibold text-xl">Senior Software Engineer (Frontend)</h2>
       <p class="!mt-8">Detail-oriented Frontend Engineer with <strong>{getExperienceYears()} years</strong> of experience building responsive, high-performance web applications using React, TypeScript, and modern JavaScript frameworks. Proven track record of delivering scalable UI solutions, collaborating cross-functionally with design and backend teams, and optimizing user experiences across devices. Passionate about clean code, accessibility, and continuously improving frontend architecture. I am currently working with <a class="text-lightGreenText underline" target="_blank" rel="nofollow" href="https://okcredit.in/">OkCredit</a>. Previously worked at <a class="text-lightGreenText underline" target="_blank" rel="nofollow" href="https://play.google.com/store/apps/details?id=com.healofy">Healofy</a> and <a class="text-lightGreenText underline" target="_blank" rel="nofollow" href="https://money.mobikwik.com/">Clearfunds</a> (acquired by MobiKwik).</p>
     </div>
     <img src='/profile.png' alt="Dipankar Jana" class="hidden md:block rounded-full w-40 h-40" />
