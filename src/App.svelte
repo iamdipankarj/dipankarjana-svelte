@@ -78,9 +78,9 @@
       <h4 class="font-semibold text-lg tracking-wide mb-4">Tools</h4>
       <p class="text-subheading">{getTools().join(' / ')}</p>
     </div>
-    <Education />
     <Social />
     <Languages />
+    <Education />
   </aside>
 </div>
 <footer class="text-footertext text-sm py-10 px-6 text-center">
