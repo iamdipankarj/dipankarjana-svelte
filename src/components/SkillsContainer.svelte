@@ -6,6 +6,7 @@
   <SkillBadge skill="js" className='bg-lightBlue text-lightBlueText border-lightBlueStroke' />
   <SkillBadge skill="ts" className='bg-lightGreen text-lightGreenText border-lightGreenStroke' />
   <SkillBadge skill="react" className='bg-lightPurple text-lightPurpleText border-lightPurpleStroke' />
+  <SkillBadge skill="react-native" className='bg-lightPurple text-lightPurpleText border-lightPurpleStroke' />
   <SkillBadge skill="vue" className='bg-lightPink text-lightPinkText border-lightPinkStroke' />
   <SkillBadge skill="next" className='bg-lightGray text-lightGrayText 
   border-lightGrayStroke' />

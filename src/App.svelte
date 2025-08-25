@@ -11,7 +11,6 @@
   import SkillsContainer from './components/SkillsContainer.svelte';
   import ProjectsContainer from './components/ProjectsContainer.svelte';
   import { getExperienceYears, getTools } from './helpers';
-    import LinkedInWidget from './components/LinkedInWidget.svelte';
 </script>
 
 <header>
@@ -71,10 +70,9 @@
   </main>
   <aside class="shrink-0 space-y-8 w-full md:w-1/4">
     <Contact />
-    <LinkedInWidget />
     <div>
       <h4 class="font-semibold text-lg tracking-wide mb-4">Programming Skills</h4>
-       <SkillsContainer />
+      <SkillsContainer />
     </div>
     <div>
       <h4 class="font-semibold text-lg tracking-wide mb-4">Tools</h4>

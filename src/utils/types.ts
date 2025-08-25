@@ -16,6 +16,10 @@ export const SkillMap: Record<string, SkillValue> = {
     link: 'https://react.dev/',
     label: 'React.js',
   },
+  'react-native': {
+    link: 'https://reactnative.dev/',
+    label: 'React Native',
+  },
   'vue': {
     link: 'https://vuejs.org/',
     label: 'Vue.js'
