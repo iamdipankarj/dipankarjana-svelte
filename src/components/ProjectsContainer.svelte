@@ -43,7 +43,7 @@
       title='Portfolio Website - dipankarjana.com'
       description='Simple React component library to build faster and more accessible React applications.'
       demoLink='https://dipankarjana.com/'
-      githubLink='https://github.com/iamdipankarj/dipankarjana-site'
+      githubLink='https://github.com/iamdipankarj/dipankarjana-svelte'
     />
     <hr />
     <Project
